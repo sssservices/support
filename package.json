@@ -1,0 +1,12 @@
+{
+  "name": "@sssservices/support",
+  "version": "0.0.1",
+  "description": "The Sssservices Container package.",
+  "repository": "https://github.com/sssservices/support",
+  "author": "Wilson Lewis <wilsonlewis@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "collect.js": "^3.0.51",
+    "lodash": "^4.17.4"
+  }
+}
